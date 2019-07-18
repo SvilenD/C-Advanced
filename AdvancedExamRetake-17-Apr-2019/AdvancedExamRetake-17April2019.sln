@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01-CatapultAttack", "P01-CatapultAttack\P01-CatapultAttack.csproj", "{8DCAFE51-36D5-4104-BDE2-52648BFBF581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02-ThroneConquering", "P02-ThroneConquering\P02-ThroneConquering.csproj", "{3AC0BFAF-7E1E-475F-BEC1-8F39CE4873ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04-TravelMap", "P04-TravelMap\P04-TravelMap.csproj", "{A7E55836-3520-4F4A-8DFF-3FC371332BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCAFE51-36D5-4104-BDE2-52648BFBF581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCAFE51-36D5-4104-BDE2-52648BFBF581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCAFE51-36D5-4104-BDE2-52648BFBF581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCAFE51-36D5-4104-BDE2-52648BFBF581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC0BFAF-7E1E-475F-BEC1-8F39CE4873ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC0BFAF-7E1E-475F-BEC1-8F39CE4873ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC0BFAF-7E1E-475F-BEC1-8F39CE4873ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC0BFAF-7E1E-475F-BEC1-8F39CE4873ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E55836-3520-4F4A-8DFF-3FC371332BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E55836-3520-4F4A-8DFF-3FC371332BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E55836-3520-4F4A-8DFF-3FC371332BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E55836-3520-4F4A-8DFF-3FC371332BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F572C96C-B95B-434F-AF56-6F8F1E1320DB}
+	EndGlobalSection
+EndGlobal
